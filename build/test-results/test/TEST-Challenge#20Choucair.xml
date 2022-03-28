@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Challenge Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-28T21:19:51" hostname="CHMEPF35EB5X" time="11.74">
+  <properties/>
+  <testcase name="Enter products and finalize purchase" classname="Challenge Choucair" time="11.74"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 55792
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar 28, 2022 4:19:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+mar 28, 2022 4:19:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+mar 28, 2022 4:19:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFORMACIÓN: Found CDP implementation for version 99 of 97
+]]></system-err>
+</testsuite>
